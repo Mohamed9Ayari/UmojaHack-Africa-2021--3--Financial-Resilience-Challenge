@@ -7,7 +7,7 @@ The objective of this challenge is to to build a machine learning model to predi
 ## About this code
 
 ```
-# this code is not our Final Solution - But it's a code that will give you 5th place !
+# this code will give you 6th place !
 ```
 
 
